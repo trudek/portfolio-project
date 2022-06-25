@@ -1,0 +1,33 @@
+{
+    "app_title": "App title",
+    "sidebar_menu1": "About Me",
+    "sidebar_menu2": "Icons",
+    "sidebar_menu2_1": "Icons List",
+    "sidebar_menu2_2": "Icon Dashboard",
+    "sidebar_menu3": "Pages",
+    "sidebar_menu3_1": "404",
+    "sidebar_menu3_2": "500",
+    "sidebar_logout": "Logout",
+    "sidebar_darkMode": "Dark Mode",
+    "sidebar_new": "new",
+
+    "dashboard_lbin": "Lowest BIN price",
+    "dashboard_1avg": "1 Day Average Sell Price",
+    "dashboard_7avg": "7 Day Average Sell Price",
+    "dashboard_name": "Name:",
+    "dashboard_nation": "Nation:",
+    "dashboard_rating": "Rating:",
+    "dashboard_position": "Position:",
+    "dashboard_sellRate": "Sell Rate:",
+    "dashboard_closingPrice": "Closing Price:",
+    "dashboard_priceRange": "Price Range:",
+    "dashboard_quickSell": "Quick Sell:",
+    "dashboard_skillsWf": "Skills/WF:",
+    "dashboard_foot": "Foot:",
+    "dashboard_heightWeight": "Height/Weight:",
+    "dashboard_date": "Date",
+    "dashboard_soldfor": "Sold For",
+    "dashboard_chartPrice": "Price"
+
+
+}
