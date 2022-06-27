@@ -27,7 +27,14 @@
     "dashboard_heightWeight": "Height/Weight:",
     "dashboard_date": "Date",
     "dashboard_soldfor": "Sold For",
-    "dashboard_chartPrice": "Price"
+    "dashboard_chartPrice": "Price",
+
+    "table_name": "Name",
+    "table_nationality": "Nationality",
+    "table_rating": "Rating",
+    "table_position": "Position"
+
+
 
 
 }
