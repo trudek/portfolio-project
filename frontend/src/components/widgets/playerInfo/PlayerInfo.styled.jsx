@@ -7,7 +7,7 @@ export const SPlayerInfo = styled.div`
   /* justify-content: space-between; */
   flex: 1;
   min-width: 280px;
-  height: 400px;
+  height: 500px;
   padding: 10px;
   background: ${({ theme }) => theme.bg4};
   border-radius: ${v.borderRadius};

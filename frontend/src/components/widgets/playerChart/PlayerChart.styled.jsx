@@ -3,7 +3,7 @@ import { v } from '../../../styles/variables';
 
 export const SPlayerChart = styled.div`
   flex: 1;
-  height: 400px;
+  height: 500px;
   min-width: 280px;
   padding: 10px;
   background: ${({ theme }) => theme.bg4};

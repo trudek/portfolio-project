@@ -164,7 +164,7 @@ const PlayerChart = () => {
         options={options}
         series={series}
         type="area"
-        height={380}
+        height={480}
       />
     </SPlayerChart>
   );

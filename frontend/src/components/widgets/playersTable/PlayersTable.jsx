@@ -14,6 +14,7 @@ import { useContext } from 'react';
 import { ThemeContext } from './../../../App';
 import {
   Box,
+  Button,
   IconButton,
   LinearProgress,
   Pagination,
@@ -21,13 +22,14 @@ import {
   styled,
   Tooltip,
 } from '@mui/material';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faTrash } from '@fortawesome/free-solid-svg-icons';
 import { useTranslation } from 'react-i18next';
+import DeleteIcon from '@mui/icons-material/Delete';
+import { blue } from '@mui/material/colors';
 
 const darkTheme = createTheme({
   palette: {
     mode: 'dark',
+    primary: blue,
   },
 });
 
@@ -286,7 +288,7 @@ const PlayersTable = () => {
     },
     {
       field: 'delete',
-      width: 30,
+      width: 55,
       sortable: false,
       tooltip: 'delete button',
       disableColumnMenu: true,
@@ -294,11 +296,12 @@ const PlayersTable = () => {
         return (
           <Tooltip title="Delete" placement="right">
             <IconButton
+              size="small"
               onClick={() => {
                 console.log(selectionModel);
               }}
             >
-              <FontAwesomeIcon icon={faTrash} size="xs" />
+              <DeleteIcon />
             </IconButton>
           </Tooltip>
         );

@@ -7,6 +7,8 @@
     "sidebar_menu3": "Pages",
     "sidebar_menu3_1": "404",
     "sidebar_menu3_2": "500",
+    "sidebar_menu3_3": "Sign In",
+    "sidebar_menu3_4": "Sign Up",
     "sidebar_logout": "Logout",
     "sidebar_darkMode": "Dark Mode",
     "sidebar_new": "new",
@@ -32,9 +34,24 @@
     "table_name": "Name",
     "table_nationality": "Nationality",
     "table_rating": "Rating",
-    "table_position": "Position"
+    "table_position": "Position",
 
+    "page404_title": "Page not found.", 
+    "page404_desc": "We can't seem to find the page you're looking for.",
 
+    "page500_title": "Internal server error.", 
+    "page500_desc": "The server encountered something unexpected that didn't allow it to complete the request.",
+
+    "homepage_button": "Homepage",
+
+    "sign_name": "Name",
+    "sign_email": "Email address",
+    "sign_password": "Password",
+    "sign_remember": "Remember me",
+    "signin_title": "Sign in to your account to continue",
+    "signin_button": "Sign In",
+    "signup_title": "Create an account and get started.",
+    "signup_button": "Sign Up"
 
 
 }

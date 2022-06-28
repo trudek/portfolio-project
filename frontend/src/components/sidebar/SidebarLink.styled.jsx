@@ -38,7 +38,7 @@ export const SLinkNotification = styled.div`
 `;
 
 export const SSidebarDropdown = styled.div`
-  max-height: ${({ subnav }) => (subnav ? '90px' : '0px')};
+  max-height: ${({ subnav }) => (subnav ? '180px' : '0px')};
   transition: max-height 0.2s ease-in-out;
   overflow: hidden;
 `;

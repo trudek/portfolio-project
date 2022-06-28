@@ -5,7 +5,7 @@ const Footer = ({ sidebar }) => {
     <SFooter>
       <SFooterLinks></SFooterLinks>
       <SFooterCopyrights sidebar={sidebar}>
-        &copy; 2022 - Damian Trutkowski
+        &copy; {new Date().getFullYear()} - Damian Trutkowski
       </SFooterCopyrights>
     </SFooter>
   );

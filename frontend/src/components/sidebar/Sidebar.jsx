@@ -39,9 +39,10 @@ const Sidebar = ({ sidebar }) => {
         <SLogout>
           <Button
             onClick={() => console.log('button clicked')}
-            bgHover="rgb(53, 63, 85)"
             txt="rgb(200, 200, 200)"
             txtHover="rgb(230, 230, 230)"
+            bg="rgb(51, 59, 82)"
+            bgHover="rgb(53, 63, 85)"
             icon={<FontAwesomeIcon icon={faArrowRightFromBracket} />}
           >
             {t('sidebar_logout')}

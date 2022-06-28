@@ -7,6 +7,8 @@
     "sidebar_menu3": "Strony",
     "sidebar_menu3_1": "404",
     "sidebar_menu3_2": "500",
+    "sidebar_menu3_3": "Logowanie",
+    "sidebar_menu3_4": "Rejestracja",
     "sidebar_logout": "Wyloguj",
     "sidebar_darkMode": "Tryb ciemny",
     "sidebar_new": "nowe",
@@ -32,5 +34,22 @@
     "table_name": "Imię i nazwisko",
     "table_nationality": "Kraj",
     "table_rating": "Ocena",
-    "table_position": "Pozycja"
+    "table_position": "Pozycja",
+
+    "page404_title": "Ta strona nie istnieje.", 
+    "page404_desc": "Chyba nie możemy znaleźć strony, której szukasz.",
+
+    "page500_title": "Błąd wewnętrzny serwera.", 
+    "page500_desc": "Serwer napotkał niespodziewane niedogodności. Żądanie nie może zostać zrealizowane.",
+
+    "homepage_button": "Strona startowa",
+
+    "sign_name": "Imię i nazwisko",
+    "sign_email": "Adres email",
+    "sign_password": "Hasło",
+    "sign_remember": "Zapamiętaj mnie",
+    "signin_title": "Zaloguj się na swoje konto, aby kontynuować",
+    "signin_button": "Logowanie",
+    "signup_title": "Stwórz konto i zacznij z niego korzystać.",
+    "signup_button": "Rejestracja"
 }

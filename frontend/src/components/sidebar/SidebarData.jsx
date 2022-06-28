@@ -46,6 +46,16 @@ export const SidebarData = [
         path: '/500',
         notification: 0,
       },
+      {
+        label: 'sidebar_menu3_3',
+        path: '/signin',
+        notification: 0,
+      },
+      {
+        label: 'sidebar_menu3_4',
+        path: '/signup',
+        notification: 0,
+      },
     ],
   },
 ];
