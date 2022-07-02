@@ -5,7 +5,7 @@ export const SPlayersTable = styled.div`
   display: flex;
   flex-direction: column;
   flex: 1;
-  min-width: 880px;
+  max-width: 650px;
   height: 400px;
   padding: 10px;
   background: ${({ theme }) => theme.bg4};

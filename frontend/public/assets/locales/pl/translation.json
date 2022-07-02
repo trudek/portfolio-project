@@ -35,6 +35,9 @@
     "table_nationality": "Kraj",
     "table_rating": "Ocena",
     "table_position": "Pozycja",
+    "table_delete": "Usuń",
+
+    "search": "Szukaj",
 
     "page404_title": "Ta strona nie istnieje.", 
     "page404_desc": "Chyba nie możemy znaleźć strony, której szukasz.",

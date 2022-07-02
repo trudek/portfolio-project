@@ -35,6 +35,9 @@
     "table_nationality": "Nationality",
     "table_rating": "Rating",
     "table_position": "Position",
+    "table_delete": "Delete",
+
+    "search": "Search",
 
     "page404_title": "Page not found.", 
     "page404_desc": "We can't seem to find the page you're looking for.",
